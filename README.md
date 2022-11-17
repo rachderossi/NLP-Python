@@ -1,4 +1,6 @@
 # NLP-Python
 
 ## keys_values.py
-Script in python who read a JSON file and create two lists one with keys and another with values.
+
+Python script that reads a JSON file and creates two lists, one with keys and one with values.
+
