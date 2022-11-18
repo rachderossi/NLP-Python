@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 from operator import itemgetter
 import json
 
-f = open('python/aula7/words.json')
+f = open('../words.json')
 d = json.load(f)
 f.close()
 
