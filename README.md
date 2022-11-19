@@ -5,4 +5,4 @@
 Python script that reads a JSON file and creates two lists, one with keys and one with values.
 
 ## words
-Python script that reads a JSON file with words frequencies and built a bar chart of the top 10 words. 
+Python script that reads a JSON file with word frequencies and creates a bar graph of the top 10 words. 
