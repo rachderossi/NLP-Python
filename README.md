@@ -8,3 +8,6 @@ Python script that reads a JSON file with word frequencies and creates graphs wi
 
 ## crawler.py
 Python script that gets data from a website and downloads it as an xls file. It's a crawler built with Selenium.
+
+## contact_list
+Contact list using Python and data structures: lists and dictionaries.
