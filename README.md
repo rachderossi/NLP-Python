@@ -1,13 +1,13 @@
 # Scripts Python
 
 ## keys_values.py
-Python script that reads a JSON file and creates two lists, one with keys and one with values.
+Script Python que lê um arquivo JSON e cria duas listas, uma com chaves e outra com valores.
 
 ## words
-Python script that reads a JSON file with word frequencies and creates graphs with the top 10 words. 
+Script Python que lê um arquivo JSON com frequências de palavras e cria gráficos com as 10 principais palavras.
 
 ## crawler.py
-Python script that gets data from a website and downloads it as an xls file. It's a crawler built with Selenium.
+Script Python que obtém dados de um site e os baixa como um arquivo xls. É um crawler construído com Selenium.
 
 ## contact_list
-Contact list using Python and data structures: lists and dictionaries.
+Lista de contatos em Python e estruturas de dados: listas e dicionários.
